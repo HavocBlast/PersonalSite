@@ -1,0 +1,25 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havoblast/PersonalSite.git"
+  },
+  "author": "Jacob Kruse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havoblast/PersonalSite/issues"
+  },
+  "homepage": "https://github.com/havoblast/PersonalSite#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0",
+    "globals": "^15.4.0",
+    "typescript-eslint": "^7.12.0"
+  }
+}
